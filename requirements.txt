@@ -1,0 +1,7 @@
+numpy>=1.23
+scipy>=1.10
+torch>=2.1
+torchvision>=0.16
+nibabel>=5.1
+tqdm>=4.66
+typing-extensions>=4.9
